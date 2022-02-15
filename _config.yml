@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: Kong
 
 # Name of the author
 author: Amit Merchant
@@ -26,11 +26,11 @@ footer-links:
   flickr:
   github: amitmerchant1990/reverie
   instagram:
-  linkedin: 
+  linkedin:
   pinterest:
   rss: rss
   twitter: amit_merchant
-  stackoverflow: 
+  stackoverflow:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
@@ -38,7 +38,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-43339302-11
@@ -48,8 +48,8 @@ google_analytics: UA-43339302-11
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+url: https://corccc.github.io/reverie
+enforce_ssl: https://corccc.github.io/reverie
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -99,4 +99,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
